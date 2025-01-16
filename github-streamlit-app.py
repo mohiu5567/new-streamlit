@@ -1,3 +1,7 @@
+
+!pip install praw
+
+
 import praw
 import re
 from collections import Counter
