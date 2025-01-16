@@ -1,5 +1,5 @@
 
-!pip install praw
+pip install praw
 
 
 import praw
