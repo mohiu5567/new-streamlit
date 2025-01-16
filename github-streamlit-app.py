@@ -232,7 +232,7 @@ README.md:
 ```markdown
 # Migration Pattern Analysis App
 
-This Streamlit app analyzes migration patterns based on Reddit's r/IWantOut subreddit posts and correlates them with World Bank GDP data.
+This Streamlit app analyzes migration patterns based on Reddits r/IWantOut subreddit posts and correlates them with World Bank GDP data.
 
 ## Setup
 
